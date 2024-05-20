@@ -1,0 +1,12 @@
+Delay: 60
+AutoDelay: 20
+Automatico: true
+SemPermissao: '&8[&6Bolao&8] &cSem permissao para usar este comando!!!'
+Use: '&8[&6Bolao&8] &cPara apostar use /bolao'
+Ganhou: '&8[&6Bolao&8] &bO ganhador do bolao foi o jogador(a) %player% e recebeu %valor%'
+Apostou: '&8[&6Bolao&8] &bVoce apostou no bolao o valor %valor% aguarde ate que ele esteja encerrado'
+Aposta: '&8[&6Bolao&8] &cpermitido apostar somente uma vez por partida'
+Saldo: '&8[&6Bolao&8] &cVoce nao tem saldo suficiente para apostar'
+Credito: '&8[&6Bolao&8] &bVoce ganho o valor de %valor%'
+UseIniciar: '&8[&6Bolao&8] &cPara apostar use /bolao iniciar <valor>'
+Anuncio: '&8[&6Bolao&8] &bValor da aposta &e%premio%&b. O bolao termina em &e%tempo% &esegundos. Valor acumulado em &e%acumulado%&b.'

@@ -1,0 +1,7 @@
+name: MrzBolao
+authors: [klarcky]
+version: 1.0
+main: me.klarcky.bolao.Main
+descriptions: Sistemas de apostas
+commands:
+  bolao:
